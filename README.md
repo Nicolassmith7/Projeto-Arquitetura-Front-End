@@ -29,4 +29,4 @@
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/Projeto-Arquitetura-Front-End.git
+   git clone https://github.com/Nicolassmith7/Projeto-Arquitetura-Front-End.git
